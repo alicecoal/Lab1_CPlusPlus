@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.593,=C:\Users\User\Desktop\Task2\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.438,F:\с+\Lab1\Task2\Circle.h=F:\с+\Lab1\Task2\Unit3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.317,F:\с+\Lab1\Task2\MyFigure.cpp=F:\с+\Lab1\Task2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.272,F:\с+\Lab1\Task2\Main.cpp=F:\с+\Lab1\Task2\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.241,C:\Users\User\Desktop\Project1.cbproj=C:\Users\User\Desktop\Task2\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.274,C:\Users\User\Desktop\Unit1.h=C:\Users\User\Desktop\Task2\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.274,C:\Users\User\Desktop\Unit1.cpp=C:\Users\User\Desktop\Task2\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.384,=C:\Users\User\Desktop\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.272,F:\с+\Lab1\Task2\Main.dfm=F:\с+\Lab1\Task2\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.025,F:\с+\Lab1\Task2\Polygoncpp.h=F:\с+\Lab1\Task2\Unit4.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.749,=C:\Users\User\Desktop\Task2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.272,F:\с+\Lab1\Task2\Main.h=F:\с+\Lab1\Task2\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.275,=C:\Users\User\Desktop\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.601,C:\Users\User\Desktop\Project1PCH1.h=C:\Users\User\Desktop\Task2\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.317,F:\с+\Lab1\Task2\MyFigure.h=F:\с+\Lab1\Task2\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.438,F:\с+\Lab1\Task2\Circle.cpp=F:\с+\Lab1\Task2\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.103,F:\с+\Lab1\Task2\Polygon.h=F:\с+\Lab1\Task2\Polygoncpp.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.274,C:\Users\User\Desktop\Unit1.dfm=C:\Users\User\Desktop\Task2\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.198,=C:\Users\User\Desktop\Task2\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.103,F:\с+\Lab1\Task2\Polygon.cpp=F:\с+\Lab1\Task2\Polygoncpp.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.025,F:\с+\Lab1\Task2\Polygoncpp.cpp=F:\с+\Lab1\Task2\Unit4.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Circle.cpp"/>
+    <File Path="Circle.cpp"/>
+    <File Path="Circle.h"/>
+    <File Path="MyFigure.cpp"/>
+    <File Path="MyFigure.cpp"/>
+    <File Path="MyFigure.h"/>
+    <File Path="Project1.cpp"/>
+    <File Path="Project1PCH1.h"/>
+    <File Path="Main.cpp"/>
+    <File Path="Main.cpp"/>
+    <File Path="Main.dfm"/>
+    <File Path="Main.h"/>
+    <File Path="Polygon.cpp"/>
+    <File Path="Polygon.cpp"/>
+    <File Path="Polygon.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
