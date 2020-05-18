@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.679,=C:\Users\win\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.805,C:\Users\win\Documents\Embarcadero\Studio\Projects\Project2PCH1.h=C:\Users\win\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.542,=C:\Users\win\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.667,=C:\Users\win\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.762,C:\Users\win\Documents\Embarcadero\Studio\Projects\Unit22.cpp=C:\Users\win\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.839,=C:\Users\win\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.762,C:\Users\win\Documents\Embarcadero\Studio\Projects\Unit22.h=C:\Users\win\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.762,C:\Users\win\Documents\Embarcadero\Studio\Projects\Unit22.dfm=C:\Users\win\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.732,C:\Users\win\Documents\Embarcadero\Studio\Projects\Project2.cbproj=C:\Users\win\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2020.05.13 01:54:37.484,F:\с+\Lab1\Task1\Car.dfm=F:\с+\Lab1\Task1\Unit22.dfm</Transaction>
+    <Transaction>2020.05.13 01:54:37.484,F:\с+\Lab1\Task1\Car.cpp=F:\с+\Lab1\Task1\Unit22.cpp</Transaction>
+    <Transaction>2020.05.13 01:54:37.484,F:\с+\Lab1\Task1\Car.h=F:\с+\Lab1\Task1\Unit22.h</Transaction>
+  </Transactions>
+</BorlandProject>
